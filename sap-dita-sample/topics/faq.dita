@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reference id="faq" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+  <title>FAQ</title>
+  <refbody>
+    <section>
+      <title>Can I assign tasks to a team member?</title>
+      <p>Yes, use the "Assign" dropdown when creating a task.</p>
+    </section>
+    <section>
+      <title>Is there a mobile version?</title>
+      <p>Yes, SAP Signavio App is available on iOS and Android.</p>
+    </section>
+  </refbody>
+</reference>

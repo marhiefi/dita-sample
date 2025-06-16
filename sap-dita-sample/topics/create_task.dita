@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="create_task" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+  <title>Creating a New Task</title>
+  <taskbody>
+    <steps>
+      <step><cmd>Click "New Task".</cmd></step>
+      <step><cmd>Enter task name and details.</cmd></step>
+      <step><cmd>Click "Save".</cmd></step>
+    </steps>
+    <result>The task is now created and visible on your dashboard.</result>
+  </taskbody>
+</task>
